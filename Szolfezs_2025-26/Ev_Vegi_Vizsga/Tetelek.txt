@@ -1,0 +1,24 @@
+
+I   Bach: 62, Ének-Zongora: Beehtoven_Nemet_Tanc(oktober), Kamara: Bertalotti 1, Memoriter ab 
+II  Bach: 38, Ének-Zongora: Mozart_Menuett(november), Kamara: Palestrina Jesu Rex .., Memoriter ab
+III Bach: 43, Ének-Zongora: Mozart(marcius), Kamara: Haydn Kánon Memoriter ab
+IV  Bach: 56, Ének-Zongora: Mozart(februar), Kamara: Schutz Ima, Memoriter ab
+V   Bach: 46, Ének-Zongora: Schubert Asz-dúr(aprilis), Kamara: Boismortier Preludium, Memoriter ab
+VI  Bacz: 52, Ének-Zongora: Mozart sonata(december), Kamara: Mino Amore, Memoriter ab
+
+
+
+
+BACH [Kottából szolmizálva kell előadni]
+62,38,43,46,52,56
+ÉNEK-ZONGORA [Kottából, zongorán kísérjük a saját énekünket ]
+Beethoven_Nemet_tanc_oktober,Mozart_Menuett_november,Haydn_Menuett,
+Mozart_Violin_sonata_december(s_fmrdl_d_d_t),Schubert_Asz_major_aprilis,
+Mozart_diktando_februar,Mozart_marcius,
+KAMARA [Kottából társas zenélés: mindenki viszi a saját szólamát]
+Bertalotti_1,Palestrina_Jesu_Rex_Admirabilis,Mino_Amore,Boismortier_Preludium,Schutz_Ima,
+Haydn_Kanon
+MEMORITER [A fenti területek egyikéből szabadon választva egyet kotta nélkül szolaltat meg a vizsgázó
+kivéve a kamarát]
+a,b
+~       
