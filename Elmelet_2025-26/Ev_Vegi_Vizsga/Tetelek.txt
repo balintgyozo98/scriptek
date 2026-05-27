@@ -1,1 +1,15 @@
+A - Mintapéldák: tk:81,a,b,c; tk: 88,1,2,I-IV-V-I
+B - Akkordkivonatok: a tankönyv feladatai: 34,36,38,42,46,48
+C - Egy diktálás a tanult akkordok használatával
 
+I    Tétel: Mozart Don Giovanni -II felvonás (42), 81,a
+II   Tétel: Mozart F-dúr zg szonata részlet(46), 81,b
+III  Tétel: Bach D-dúr orgona fúga részlet(48), 81,c
+IV   Tétel: Mozart Esz-dúr kürtverseny(34), I-IV-V-I három különböző hangnemben
+V    Tétel: Mozart Cosi fan tutte II felvonás r. (36), tk:88/1
+VI   Tétel: Haydn G-dúr zongoraszonata r. (38), tk: 88/2
+
+A tételek három részből állnak:
+1 Előre kigyakorolt és szűk fekvésben lejegyzett darab kísérete fokszámról.
+2 Egy kidolgozott mintapélda játéka több hangnemben
+3 Tanult akkordok használatával, diktált fokok játéka szűk fekvésben.
